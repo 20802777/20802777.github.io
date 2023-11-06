@@ -1,19 +1,21 @@
 ---
 layout: post
-title: About Me
-subtitle: My CV
-categories: About Me
-tags: [About Me]
+title: Activity2
+subtitle: Scanning Activity
+categories: Activities
+tags: [Activity, Scanning, Unit1]
 ---
 
-## Experience
-January 2023–June 2023
-Website Designer and Developer • EMU University
-November 2022–April 2023
-Website Developer • Zigma
-From January 2023 till June 2023 I was part of a team at my university named IT CLUB we made a website for a dart club in Famagusta for member registration and Tournaments results. It was a very pleasant experience of teamwork and understanding the needs of customers. Also, from November 2022 till April 2023 I have done web development for a real state company named Zigma in Famagusta, Salamis Road while I was studying and doing IT CLUB team projects at university. I developed and designed a suitable website for this company meeting their professional needs.
-
-
-
+## How many hops from your machine to your assigned website?
+There are 12 distinct Hops between the starting address and the final website.
+## Which step causes the biggest delay in the route? What is the average duration of that delay?
+A. The Biggest Delay in the route is 28.588ms (adm-b10-link.ip.twelve99.net)
+B. From our Traceroute at this step we had the following for 2 packets recorded 28.588 and 26.916 for
+this link giving an average of
+(26.916 + 28.588) / 2 = 27.752
+However, if we wanted a fair result, we would have to repeat the test a number of times to know if this was
+the lowest performance or if this result was due to traffic or some other network condition at the time we
+ran the original traceroute command.
+## What are the main nameservers for the website?
 
 ![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
