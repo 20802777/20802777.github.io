@@ -50,3 +50,6 @@ Here are some components of the Android attack surface:
     - The built-in web browser and WebView components. Vulnerabilities in these components can expose the device to web-based attacks.
 
 Understanding the Android attack surface is an ongoing challenge due to the evolving nature of threats and the continuous development of the Android ecosystem. Regular security updates, adherence to best practices in app development, and user education are crucial elements in mitigating risks associated with the Android attack surface.
+![smart phone security](https://github.com/20802777/20802777.github.io/assets/148220693/e72a4ddb-cdcd-47b6-ad33-cd01cb3921fb)
+Now we identify where the attack occur based on this photo.
+
