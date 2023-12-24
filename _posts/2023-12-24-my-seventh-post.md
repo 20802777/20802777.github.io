@@ -3,7 +3,7 @@ layout: post
 title: Activity7
 subtitle: Greene Organix Greenhouse
 categories: Discussions
-tags: [discussion, IoT, smart_greenhouse]
+tags: [discussions, IoT, smart_greenhouse]
 ---
 
 ## IoT Infrastructure
@@ -45,6 +45,7 @@ In greenhouse environment monitoring, it is possible to apply quite a wide range
 
 ## Constraints
 
+# What are some constraints we may be dealing with within our greenhouse operation?
 
 Running an Internet of Things (IoT) greenhouse operation involves managing various challenges and constraints. Here are some common constraints associated with typical IoT greenhouse operations:
 
