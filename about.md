@@ -4,7 +4,7 @@ title: About
 ---
 
 ## Personal Information
-Hi, I'm SeyedehMahissa Salehnezhad. I'm from Iram and I'm 22 years old.
+Hi, I'm SeyedehMahissa Salehnezhad. I'm from Iran and I'm 22 years old.
 Welcome to my website. This website is all about my activities and experiments in the IoT and CyberSecurity course at my university, EMU.
 
 ## Experience
