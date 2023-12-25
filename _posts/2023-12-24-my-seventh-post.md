@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Activity7
+title: Activity8
 subtitle: Greene Organix Greenhouse
 categories: Discussions
 tags: [discussions, IoT, smart_greenhouse]
