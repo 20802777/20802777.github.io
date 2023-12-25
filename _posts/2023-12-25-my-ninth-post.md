@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction
-subtitle: Introduction
+subtitle:
 categories: Introduction
 tags: [introduction, IoT, cybersecurity]
 ---
@@ -19,6 +19,6 @@ Thank you for joining me on this expedition. Let's explore the boundless possibi
 
 Warm regards,
 
-[Your Name]
-[Your Contact Information]
-[Your LinkedIn/GitHub Profile, if applicable]
+SeyedehMahissa Salehnezhad
+
+Email: 20802777@emu.edu.tr
