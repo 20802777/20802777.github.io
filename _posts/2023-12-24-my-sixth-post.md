@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Activity6
+title: Activity7
 subtitle: IoT Best Elevator Project
 categories: Discussions
 tags: [discussions, iot]
