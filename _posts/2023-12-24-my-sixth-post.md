@@ -6,7 +6,7 @@ categories: Discussions
 tags: [discussions, iot]
 ---
 
-### Identify how an IoT solution might be used to help the company address each objective listed below.
+### Identify how an IoT solution might be used to help the company address each objective listed below in an IoT Best Elevator Project.
 
 ## Increase customer loyalty
 
