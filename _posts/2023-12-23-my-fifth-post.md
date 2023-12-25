@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Activity5
+title: Activity6
 subtitle: Connecting your world by IOT seminar
 categories: Discussions
 tags: [discussions, IoT, seminar]
