@@ -20,7 +20,7 @@ So I was thinking how fine it would be to grow my code and make something like S
 
 Also, not only the house, I want my device to be connected to my office computer so I can tell the AI assistant to write what I say in Word or do what I want with the application that I choose (e.g. Go to Cisco and create the network I'm going to define for you.). 
 
-And lastly, Siri doesn't communicate with any particular hospital or doctor unless you put their number in the emergency call list. I want my assistant to get my medical appointments by searching for my name in big data or tracking my PC so when I tell it that I don't feel good it can call the hospital and get an appointment for me. 
+And lastly, Siri doesn't communicate with any particular hospital or doctor unless you put their number in the emergency call list. I want my assistant to get my medical history by searching for my name in big data or tracking my PC so when I tell it that I don't feel good it can call the hospital and get an appointment for me. 
 
 Here is my code:
 
