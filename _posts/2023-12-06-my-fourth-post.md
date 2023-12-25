@@ -21,7 +21,7 @@ Android stack has its layers.
 ![android stack](https://github.com/20802777/20802777.github.io/assets/148220693/36508dfa-cc3e-4365-8ab7-00cd8b589bca)
 This picture shows components running on the phone.
 
-##References
+## References
 
 9 top mobile security threats and how you can avoid them (no date) ZDNET. Available at: https://www.zdnet.com/article/9-top-mobile-security-threats-and-how-you-can-avoid-them/ (Accessed: 8 December 2023). 
 Bigdrop (2023) Android attack surface: Hacking Android, VerSprite. Available at: https://versprite.com/blog/android-attack-surface/ (Accessed: 8 December 2023). 
