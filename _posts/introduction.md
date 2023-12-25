@@ -1,11 +1,13 @@
 ---
-layout: about
-title: About
+layout: post
+title: Introduction
+subtitle: Introduction
+categories: Introduction
+tags: [introduction, IoT, cybersecurity]
 ---
-
 **Welcome to My IoT and Cybersecurity Journey**
 
-Greetings! I am thrilled to invite you to explore my digital realm, where I chronicle my odyssey through the fascinating landscapes of Internet of Things (IoT) and Cybersecurity. As a passionate learner in these dynamic fields, this e-portfolio serves as a testament to my dedication and growth in the realm of connected devices and digital fortification.
+Greetings! I am thrilled to invite you to explore my digital realm, where I chronicle my odyssey through the fascinating landscapes of the Internet of Things (IoT) and Cybersecurity. As a passionate learner in these dynamic fields, this e-portfolio serves as a testament to my dedication and growth in the realm of connected devices and digital fortification.
 
 Embarking on this educational voyage, I have delved into the intricate interplay between IoT and Cybersecurity, unraveling the complexities and challenges that arise in our increasingly interconnected world. Throughout this journey, I have engaged in diverse activities, ranging from hands-on scanning activities to thought-provoking discussions, all designed to deepen my understanding and hone my skills.
 
