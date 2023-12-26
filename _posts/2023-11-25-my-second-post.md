@@ -16,4 +16,10 @@ Also, we faced some problems with the website mentioned in the lecture note (dae
 
 Lastly, when I tried commands on my personal computer at home, the result that I got was very different from the results that I got in university. So understanding the nature of the commands and what is exactly happening behind the screen helped me to not get confused and understand why I get different results or I can’t access a piece of special information.
 
+![MicrosoftTeams-image](https://github.com/20802777/20802777.github.io/assets/148220693/2fe14346-1cf9-4ecf-a9e6-a201522e4f1b)
+testing 'traceroute' in class
+
+![photo_2023-12-26_08-26-32](https://github.com/20802777/20802777.github.io/assets/148220693/241dbb84-d901-4518-beab-9288d46f053f)
+testing 'traceroute' at home
+
 In conclusion, it was an exciting hands-on experience to understand cybersecurity and its tools better and we learned far more than just lecture notes. I hope I’ll have the chance to learn more about Kali Linux and the different applications embedded in it but this time I’ll make sure to record everything properly.
