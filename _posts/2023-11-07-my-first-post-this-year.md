@@ -54,3 +54,9 @@ tags: [discussions, SolarWinds]
      - Use network segmentation and Endpoint Detection and Response (EDR) solutions to detect and prevent unauthorized actions.
 
 In summary, the SolarWinds attack involved exploiting weaknesses across multiple phases of the kill chain, highlighting the need for a comprehensive cybersecurity strategy that includes measures such as access controls, code integrity checks, continuous monitoring, and proactive vulnerability management.
+
+## References
+
+Temple-Raston, D. (2021) A ‘worst nightmare’ cyberattack: The untold story of the solarwinds hack, WBUR. Available at: https://www.wbur.org/npr/985439655/a-worst-nightmare-cyberattack-the-untold-story-of-the-solarwinds-hack (Accessed: 07 November 2023). 
+
+Intelligence-driven computer network defense informed ... - lockheed martin. Available at: https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf (Accessed: 07 November 2023). 
