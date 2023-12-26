@@ -7,7 +7,8 @@ tags: [discussions, SolarWinds]
 ---
 
 ## The Solar Winds Breach Table
-[activity3.docx](https://github.com/20802777/20802777.github.io/files/13769639/activity3.docx)
+
+[activity3.docx](https://github.com/20802777/20802777.github.io/files/13771570/activity3.docx)
 
 ## The Solar Winds Breach Summary
 
