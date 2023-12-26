@@ -26,5 +26,8 @@ The article “Digital Innovation: Creating the Utility of the Future” by Wei 
 
 ## References
 
-Wei et al. (2019) Deloitte Insights – Digital Innovation: Creating the Utility of the Future. Available at https://www2.deloitte.com/us/en/insights/industry/power-and-utilities/digital-transformation-utility-of-the-future.html [Accessed 23 December 2023]
-Cybersecurity risks caused by Digital Transformation&nbsp;  (2023) Tek Experts. Available at: https://tek-experts.com/insights/cybersecurity-risks-caused-by-digital-transformation (Accessed: 24 December 2023). 
+Wei et al. (2019) Deloitte Insights – Digital Innovation: Creating the Utility of the Future. Available at https://www2.deloitte.com/us/en/insights/industry/power-and-utilities/digital-transformation-utility-of-the-future.html [Accessed 24 November 2023]
+
+Cybersecurity risks caused by Digital Transformation&nbsp;  (2023) Tek Experts. Available at: https://tek-experts.com/insights/cybersecurity-risks-caused-by-digital-transformation (Accessed: 24 November 2023). 
+
+Cyber security challenges in digital economy. Available at: https://www.iaeng.org/publication/WCE2018/WCE2018_pp341-346.pdf (Accessed: 24 November 2023). 
